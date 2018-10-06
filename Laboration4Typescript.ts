@@ -1,3 +1,6 @@
+//Laboration 4 - Webbutveckling III
+//Av: Björn Olsson, credit: Mikael Hasselmalm som gjort grundkoden som sedan lagts in i en klass.
+
 declare function require(name:string); // Make it possible to use require in TypeScript
 var fs = require('fs');
 
